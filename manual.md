@@ -7,7 +7,7 @@
 2. [Baixando o APP GlobalCad](#baixando-o-app-globalcad)
 3. [Acesso Inicial](#acesso-inicial)
 4. [Selecionar Módulo](#selecionar-módulo)
-5. [Selecionar Tipo de Anáise](#selecionar-tipo-de-análise)
+5. [Selecionar Tipo de Análise](#selecionar-tipo-de-análise)
 
 ## Introdução
 <a href="#introdução">Voltar ao topo</a>  
