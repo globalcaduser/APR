@@ -11,6 +11,7 @@
 6. [Selecionar Processo](#selecionar-processo)
 7. [Identificar o tipo de ativdade](#identificar-o-tipo-de-atividade)
 8. [Identificar os responsáveis](#identificar-os-responsáveis)
+9. [Iniciar as verificações](#iniciar-as-verificações)
 
 ## Introdução
 <a href="#introdução">Voltar ao topo</a>  
@@ -72,8 +73,14 @@ Identificar a atividade a ser realizada.
 
 Identificar a empresa e o responsável pela execução da Análise a ser realizada. 
 
+<img src="https://user-images.githubusercontent.com/130560587/232489010-05579cc8-1e33-42ba-9726-c9cb57a0e8ce.jpg" height="350">
 
+## Iniciar as verificações
+<a href="#introdução">Voltar ao topo</a> 
 
+Iniciar a análise e responder as perguntas de verificação. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232489767-92949a2a-024f-4b43-86db-7d7fe7ae6d9a.jpg" height="350">
 
 
 
