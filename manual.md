@@ -1,32 +1,32 @@
 <img src="https://user-images.githubusercontent.com/130560587/232461171-60156f21-bced-461a-af18-5c2e4b35a778.png" style="heigth:20vh"> 
 
 # CLICK SEGURANÇA - MODULO APR
-<a href="sumário">Sumário</a>
 
-1. [Introdução](#introdução)
-2. [Baixando o APP GlobalCad](#baixando-o-app-globalcad)
-3. [Acesso Inicial](#acesso-inicial)
-4. [Selecionar Módulo](#selecionar-módulo)
-5. [Selecionar Tipo de Análise](#selecionar-tipo-de-análise)
-6. [Selecionar Processo](#selecionar-processo)
-7. [Identificar o tipo de ativdade](#identificar-o-tipo-de-atividade)
-8. [Identificar os responsáveis](#identificar-os-responsáveis)
-9. [Identificar a localização](identificar-a-localização)
-10. [Selecionar o Projeto ou Obra vinculado](selecionar-o-projeto-ou-obra-vinculado)
-11. [Selecionar Participantes da Análise](selecionar-participantes-da-análise)
-12. [Iniciar as verificações](#iniciar-as-verificações)
-13. [Conclusão da Análise](#conclusão-da-análise)
-14. [Consulta aos arquivos de Análises enviadas](#consulta-aos-arquivos-de-análises-enviadas) 
+## [Sumário](#sumário)
+- [Introdução](#introdução)
+- [Baixando o APP GlobalCad](#baixando-o-app-globalcad)
+- [Acesso Inicial](#acesso-inicial)
+- [Selecionar Módulo](#selecionar-módulo)
+- [Selecionar Tipo de Análise](#selecionar-tipo-de-análise)
+- [Selecionar Processo](#selecionar-processo)
+- [Identificar o tipo de ativdade](#identificar-o-tipo-de-atividade)
+- [Identificar os responsáveis](#identificar-os-responsáveis)
+- [Identificar a localização](identificar-a-localização)
+- [Selecionar o Projeto ou Obra vinculado](selecionar-o-projeto-ou-obra-vinculado)
+- [Selecionar Participantes da Análise](selecionar-participantes-da-análise)
+- [Iniciar as verificações](#iniciar-as-verificações)
+- [Conclusão da Análise](#conclusão-da-análise)
+- [Consulta aos arquivos de Análises enviadas](#consulta-aos-arquivos-de-análises-enviadas) 
 
 
-## Introdução
-<a href="#introdução">Voltar ao topo</a>  
+# Introdução
+[Voltar ao topo](#sumário)
 
 Bem-vindo ao manual de treinamento do aplicativo mobile da GlobalCad, o Click Segurança. Este manual foi desenvolvido para ajudá-lo a aprender a utilizar todas as funcionalidades do nosso software de forma rápida e eficiente. Nosso objetivo é fornecer a você as informações necessárias para que possa utilizar todas as ferramentas e recursos do software, aprimorando suas habilidades e tornando seu trabalho mais produtivo. Este manual de treinamento foi elaborado com uma linguagem simples e didática, dividido em módulos que o guiarão passo a passo em todo o processo de aprendizagem. Além disso, incluímos exemplos práticos e dicas úteis que o ajudarão a aproveitar ao máximo as funcionalidades do software. Este é um guia vivo e dinâmico, que será atualizado regularmente para manter as informações sempre atualizadas e relevantes. Estamos ansiosos para ajudá-lo a se tornar um utilizador independente no Click Segurança e esperamos que este manual seja útil e eficaz em sua jornada de aprendizado.
 
 
-## Baixando o APP Globalcad
-<a href="#introdução">Voltar ao topo</a>  
+# Baixando o APP Globalcad
+[Voltar ao topo](#sumário)
 
 Abaixo, o passo a passo para a instalação do APP da GlobalCad:
 
@@ -37,24 +37,24 @@ Na página de informações do aplicativo, você pode ler mais detalhes sobre o 
 Se quiser continuar e baixar o aplicativo, clique no botão “Instalar” ou “Baixar”. Em seguida, você verá uma mensagem que pede permissão para que o aplicativo acesse determinadas informações ou recursos do seu dispositivo, como a câmera, a galeria de fotos ou o microfone. Leia com atenção as informações exibidas na tela e, se estiver tudo bem, clique em “Aceitar”.
 
 
-## Acesso Inicial
-<a href="#introdução">Voltar ao topo</a>  
+# Acesso Inicial
+[Voltar ao topo](#sumário)
 
 Na tela Inicial, coloque seu login/usuário e sua senha cadastrada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232472378-dd4759ed-177f-4f51-9a8f-021f060562cb.jpg" height="350">
 
 
-## Selecionar Módulo
-<a href="#introdução">Voltar ao topo</a> 
+# Selecionar Módulo
+[Voltar ao topo](#sumário)
 
 Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados.
 
 <img src="https://user-images.githubusercontent.com/130560587/232473947-257b3f4c-9048-4e25-bc2e-c52dc5d537d7.jpg" height="350"> 
 
 
-## Selecionar Tipo de Análise
-<a href="#introdução">Voltar ao topo</a> 
+# Selecionar Tipo de Análise
+[Voltar ao topo](#sumário) 
 
 Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análise a ser realizada. 
 <a href="#introdução">Voltar ao topo</a>  
@@ -62,40 +62,40 @@ Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análi
 <img src="https://user-images.githubusercontent.com/130560587/232476200-de62fcbd-cd43-436e-bc28-7b203f59c1f3.jpg" height="350">
 
 
-## Selecionar Processo
-<a href="#introdução">Voltar ao topo</a> 
+# Selecionar Processo
+[Voltar ao topo](#sumário)
 
 Identificar e selecionar o processo vinculado à Análise a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232482835-6f199272-0176-41d5-acd7-622766f0a08a.jpg" height="350">
 
 
-## Identificar o tipo de atividade
-<a href="#introdução">Voltar ao topo</a> 
+# Identificar o tipo de atividade
+[Voltar ao topo](#sumário)
 
 Identificar a atividade a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232488377-0c9bde45-305f-44f0-ad25-cad7d2ff7a19.jpg" height="350">
 
 
-## Identificar os responsáveis
-<a href="#introdução">Voltar ao topo</a> 
+# Identificar os responsáveis
+[Voltar ao topo](#sumário)
 
 Identificar a empresa e o responsável pela execução da Análise a ser realizada. 
 
 <img src="https://user-images.githubusercontent.com/130560587/232489010-05579cc8-1e33-42ba-9726-c9cb57a0e8ce.jpg" height="350">
 
 
-## Identificar a localização
-<a href="#introdução">Voltar ao topo</a> 
+# Identificar a localização
+[Voltar ao topo](#sumário)
 
 Buscar(via ícone em azul, estilo "mira") ou alocar manualmente a localização(via ícone estilo "lupa") da inspeção a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232493119-f77d96ab-af48-4eff-a753-55566be616bb.jpg" height="350">
 
 
-## Selecionar o Projeto ou Obra vinculado
-<a href="#introdução">Voltar ao topo</a> 
+# Selecionar o Projeto ou Obra vinculado
+[Voltar ao topo](#sumário) 
 
 Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada. 
 
@@ -104,16 +104,16 @@ Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada.
 <img src="https://user-images.githubusercontent.com/130560587/232495205-cbe03c42-0a16-4afb-bb71-7ff8ce04aed5.jpg" height="350">
 
 
-## Selecionar Participantes da Análise
-<a href="#introdução">Voltar ao topo</a>
+# Selecionar Participantes da Análise
+[Voltar ao topo](#sumário)
 
 Selecionar os participantes da realização da Análise. 
 
 <img src="https://user-images.githubusercontent.com/130560587/232496276-da40daea-c326-4c83-940e-50ddb2072fa4.jpg" height="350">
 
 
-## Iniciar as verificações
-<a href="#introdução">Voltar ao topo</a> 
+# Iniciar as verificações
+[Voltar ao topo](#sumário) 
 
 Iniciar a análise e responder as perguntas de verificação. 
 
@@ -128,8 +128,8 @@ Caso o realizador da Análise, tenha identificado algo que não esteja no escopo
 <img src="https://user-images.githubusercontent.com/130560587/232498327-75bd2d90-4db2-4a46-aaec-9c3e7135799a.jpg" height="350">
 
 
-## Conclusão da Análise
-<a href="#introdução">Voltar ao topo</a> 
+# Conclusão da Análise
+[Voltar ao topo](#sumário)
 
 Definir a “Situação” da Análise afim de classifcar quanto à natureza da execução. Se ela está “Em Andamento”, “Cancelada ou “Concluída”. Após essas definições, clicar no botão “Enviar”.
 
@@ -144,8 +144,8 @@ OBS: Sempre aparecerá o alerta sobre a necessidade de reverificar(caso seja nec
 <img src="https://user-images.githubusercontent.com/130560587/232501196-920d53a2-9e33-495e-85a5-41df38dcaab2.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/232501203-170af2de-5ca7-47b0-88c4-723979408594.jpg" height="350">
 
-## Consulta aos arquivos das Análises enviadas
-<a href="#introdução">Voltar ao topo</a>  
+# Consulta aos arquivos das Análises enviadas
+[Voltar ao topo](#sumário)
 
 Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados, juntamente com a informação da data/hora do envio, basta clicar no ícone “Todas as cx.” no canto inferior da tela no formato de “Caixa + uma bandeirola”.
 
