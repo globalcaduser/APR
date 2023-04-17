@@ -9,6 +9,8 @@
 4. [Selecionar Módulo](#selecionar-módulo)
 5. [Selecionar Tipo de Análise](#selecionar-tipo-de-análise)
 6. [Selecionar Processo](#selecionar-processo)
+7. [Identificar o tipo de ativdade](#identificar-o-tipo-de-atividade)
+8. [Identificar os responsáveis](#identificar-os-responsáveis)
 
 ## Introdução
 <a href="#introdução">Voltar ao topo</a>  
@@ -57,6 +59,20 @@ Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análi
 Identificar e selecionar o processo vinculado à Análise a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232482835-6f199272-0176-41d5-acd7-622766f0a08a.jpg" height="350">
+
+## Identificar o tipo de atividade
+<a href="#introdução">Voltar ao topo</a> 
+
+Identificar a atividade a ser realizada.
+
+<img src="https://user-images.githubusercontent.com/130560587/232488377-0c9bde45-305f-44f0-ad25-cad7d2ff7a19.jpg" height="350">
+
+## Identificar os responsáveis
+<a href="#introdução">Voltar ao topo</a> 
+
+Identificar a empresa e o responsável pela execução da Análise a ser realizada. 
+
+
 
 
 
