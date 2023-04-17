@@ -16,6 +16,7 @@
 11. [Selecionar Participantes da Análise](selecionar-participantes-da-análise)
 12. [Iniciar as verificações](#iniciar-as-verificações)
 13. [Conclusão da Análise](#conclusão-da-análise)
+14. [Consulta aos arquivos de Análises enviadas](#consulta-aos-arquivos-de-análises-enviadas)
 
 
 ## Introdução
@@ -138,8 +139,17 @@ OBS: Sempre aparecerá o alerta sobre a necessidade de reverificar(caso seja nec
 
 <img src="https://user-images.githubusercontent.com/130560587/232500102-707406bd-3cb1-4231-8cfe-7d89a212741e.jpg" height="350">
 
+É de suma importância, aguardar o envio ser concluído por completo, afim de garantir que a “Análise” foi finalizada e enviada efetivamente(juntamente com os arquivos em anexo) para a base de dados do Sistema.
 
+<img src="https://user-images.githubusercontent.com/130560587/232501196-920d53a2-9e33-495e-85a5-41df38dcaab2.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232501203-170af2de-5ca7-47b0-88c4-723979408594.jpg" height="350">
 
+## Consulta aos arquivos das Análises enviadas
+<a href="#introdução">Voltar ao topo</a>  
+
+Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados, juntamente com a informação da data/hora do envio, basta clicar no ícone “Todas as cx.” no canto inferior da tela no formato de “Caixa + uma bandeirola”.
+
+<img src="https://user-images.githubusercontent.com/130560587/232501893-75809c9b-83e1-474c-ad0f-917567c6df49.jpg" height="350">
 
 
 
