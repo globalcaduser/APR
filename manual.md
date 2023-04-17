@@ -15,6 +15,7 @@
 10. [Selecionar o Projeto ou Obra vinculado](selecionar-o-projeto-ou-obra-vinculado)
 11. [Selecionar Participantes da Análise](selecionar-participantes-da-análise)
 12. [Iniciar as verificações](#iniciar-as-verificações)
+13. [Conclusão da Análise](#conclusão-da-análise)
 
 
 ## Introdução
@@ -50,6 +51,7 @@ Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check Lis
 
 <img src="https://user-images.githubusercontent.com/130560587/232473947-257b3f4c-9048-4e25-bc2e-c52dc5d537d7.jpg" height="350"> 
 
+
 ## Selecionar Tipo de Análise
 <a href="#introdução">Voltar ao topo</a> 
 
@@ -58,12 +60,14 @@ Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análi
 
 <img src="https://user-images.githubusercontent.com/130560587/232476200-de62fcbd-cd43-436e-bc28-7b203f59c1f3.jpg" height="350">
 
+
 ## Selecionar Processo
 <a href="#introdução">Voltar ao topo</a> 
 
 Identificar e selecionar o processo vinculado à Análise a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232482835-6f199272-0176-41d5-acd7-622766f0a08a.jpg" height="350">
+
 
 ## Identificar o tipo de atividade
 <a href="#introdução">Voltar ao topo</a> 
@@ -72,6 +76,7 @@ Identificar a atividade a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232488377-0c9bde45-305f-44f0-ad25-cad7d2ff7a19.jpg" height="350">
 
+
 ## Identificar os responsáveis
 <a href="#introdução">Voltar ao topo</a> 
 
@@ -79,12 +84,14 @@ Identificar a empresa e o responsável pela execução da Análise a ser realiza
 
 <img src="https://user-images.githubusercontent.com/130560587/232489010-05579cc8-1e33-42ba-9726-c9cb57a0e8ce.jpg" height="350">
 
+
 ## Identificar a localização
 <a href="#introdução">Voltar ao topo</a> 
 
 Buscar(via ícone em azul, estilo "mira") ou alocar manualmente a localização(via ícone estilo "lupa") da inspeção a ser realizada.
 
 <img src="https://user-images.githubusercontent.com/130560587/232493119-f77d96ab-af48-4eff-a753-55566be616bb.jpg" height="350">
+
 
 ## Selecionar o Projeto ou Obra vinculado
 <a href="#introdução">Voltar ao topo</a> 
@@ -118,6 +125,19 @@ Importante frisar que, caso alguma questão considerada crítica ou impeditiva s
 Caso o realizador da Análise, tenha identificado algo que não esteja no escopo da lista de verificação feita, poderá utilizar o campo "outros". Ao final, tem também a opção de inserção de fotos, caso seja necessário. 
 
 <img src="https://user-images.githubusercontent.com/130560587/232498327-75bd2d90-4db2-4a46-aaec-9c3e7135799a.jpg" height="350">
+
+
+## Conclusão da Análise
+<a href="#introdução">Voltar ao topo</a> 
+
+Definir a “Situação” da Análise afim de classifcar quanto à natureza da execução. Se ela está “Em Andamento”, “Cancelada ou “Concluída”. Após essas definições, clicar no botão “Enviar”.
+
+<img src="https://user-images.githubusercontent.com/130560587/232499988-a3db21b3-a486-4f7b-811d-7c6eb5c4a363.jpg" height="350">
+
+OBS: Sempre aparecerá o alerta sobre a necessidade de reverificar(caso seja necessário) as informações apontadas na Análise realizada.
+
+<img src="https://user-images.githubusercontent.com/130560587/232500102-707406bd-3cb1-4231-8cfe-7d89a212741e.jpg" height="350">
+
 
 
 
