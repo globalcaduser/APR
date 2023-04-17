@@ -8,6 +8,7 @@
 3. [Acesso Inicial](#acesso-inicial)
 4. [Selecionar Módulo](#selecionar-módulo)
 5. [Selecionar Tipo de Análise](#selecionar-tipo-de-análise)
+6. [Selecionar Processo](#selecionar-processo)
 
 ## Introdução
 <a href="#introdução">Voltar ao topo</a>  
@@ -46,8 +47,19 @@ Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check Lis
 <a href="#introdução">Voltar ao topo</a> 
 
 Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análise a ser realizada. 
+<a href="#introdução">Voltar ao topo</a>  
 
 <img src="https://user-images.githubusercontent.com/130560587/232476200-de62fcbd-cd43-436e-bc28-7b203f59c1f3.jpg" height="350">
+
+## Selecionar Processo
+
+Identificar e selecionar o processo vinculado à Análise a ser realizada.
+
+<img src="https://user-images.githubusercontent.com/130560587/232482835-6f199272-0176-41d5-acd7-622766f0a08a.jpg" height="350">
+
+
+
+
 
 
 
