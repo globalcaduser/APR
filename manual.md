@@ -144,7 +144,7 @@ OBS: Sempre aparecerá o alerta sobre a necessidade de reverificar(caso seja nec
 <img src="https://user-images.githubusercontent.com/130560587/232501196-920d53a2-9e33-495e-85a5-41df38dcaab2.jpg" height="350">
 <img src="https://user-images.githubusercontent.com/130560587/232501203-170af2de-5ca7-47b0-88c4-723979408594.jpg" height="350">
 
-# Consulta aos arquivos das Análises enviadas
+# Consulta aos arquivos de Análises enviadas
 [Voltar ao topo](#sumário)
 
 Para consultar quantos arquivos foram enviados de Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados, juntamente com a informação da data/hora do envio, basta clicar no ícone “Todas as cx.” no canto inferior da tela no formato de “Caixa + uma bandeirola”.
