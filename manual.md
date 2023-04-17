@@ -1,21 +1,22 @@
 <img src="https://user-images.githubusercontent.com/130560587/232461171-60156f21-bced-461a-af18-5c2e4b35a778.png" style="heigth:20vh"> 
 
 # CLICK SEGURANÇA - MODULO APR
-[Sumário](#sumário)
+<a href="sumário">Sumário</a>
 
 1. [Introdução](#introdução)
 2. [Baixando o APP GlobalCad](#baixando-o-app-globalcad)
 3. [Acesso Inicial](#acesso-inicial)
 4. [Selecionar Módulo](#selecionar-módulo)
+5. [Selecionar Tipo de Anáise](#selecionar-tipo-de-análise)
 
 ## Introdução
-<a href="#sumário">Voltar ao topo</a>
+<a href="#introdução">Voltar ao topo</a>  
 
 Bem-vindo ao manual de treinamento do aplicativo mobile da GlobalCad, o Click Segurança. Este manual foi desenvolvido para ajudá-lo a aprender a utilizar todas as funcionalidades do nosso software de forma rápida e eficiente. Nosso objetivo é fornecer a você as informações necessárias para que possa utilizar todas as ferramentas e recursos do software, aprimorando suas habilidades e tornando seu trabalho mais produtivo. Este manual de treinamento foi elaborado com uma linguagem simples e didática, dividido em módulos que o guiarão passo a passo em todo o processo de aprendizagem. Além disso, incluímos exemplos práticos e dicas úteis que o ajudarão a aproveitar ao máximo as funcionalidades do software. Este é um guia vivo e dinâmico, que será atualizado regularmente para manter as informações sempre atualizadas e relevantes. Estamos ansiosos para ajudá-lo a se tornar um utilizador independente no Click Segurança e esperamos que este manual seja útil e eficaz em sua jornada de aprendizado.
 
 
 ## Baixando o APP Globalcad
-<a href="#sumário">Voltar ao topo</a>
+<a href="#introdução">Voltar ao topo</a>  
 
 Abaixo, o passo a passo para a instalação do APP da GlobalCad:
 
@@ -27,19 +28,26 @@ Se quiser continuar e baixar o aplicativo, clique no botão “Instalar” ou �
 
 
 ## Acesso Inicial
-<a href="#sumário">Voltar ao topo</a>
+<a href="#introdução">Voltar ao topo</a>  
 
 Na tela Inicial, coloque seu login/usuário e sua senha cadastrada.
 
-<img src="https://user-images.githubusercontent.com/130560587/232472378-dd4759ed-177f-4f51-9a8f-021f060562cb.jpg" style="heigth:20vh"> 
+<img src="https://user-images.githubusercontent.com/130560587/232472378-dd4759ed-177f-4f51-9a8f-021f060562cb.jpg" height="350">
 
 
 ## Selecionar Módulo
-<a href="#sumário">Voltar ao topo</a>
+<a href="#introdução">Voltar ao topo</a> 
 
 Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados.
 
-<img src="https://user-images.githubusercontent.com/130560587/232473947-257b3f4c-9048-4e25-bc2e-c52dc5d537d7.jpg" style="heigth:20vh"> 
+<img src="https://user-images.githubusercontent.com/130560587/232473947-257b3f4c-9048-4e25-bc2e-c52dc5d537d7.jpg" height="350"> 
+
+## Selecionar Tipo de Análise
+<a href="#introdução">Voltar ao topo</a> 
+
+Selecione o tipo de Análise a ser realizado, de acordo com a natureza da análise a ser realizada. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232476200-de62fcbd-cd43-436e-bc28-7b203f59c1f3.jpg" height="350">
 
 
 
