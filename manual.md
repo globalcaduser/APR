@@ -11,7 +11,11 @@
 6. [Selecionar Processo](#selecionar-processo)
 7. [Identificar o tipo de ativdade](#identificar-o-tipo-de-atividade)
 8. [Identificar os responsáveis](#identificar-os-responsáveis)
-9. [Iniciar as verificações](#iniciar-as-verificações)
+9. [Identificar a localização](identificar-a-localização)
+10. [Selecionar o Projeto ou Obra vinculado](selecionar-o-projeto-ou-obra-vinculado)
+11. [Selecionar Participantes da Análise](selecionar-participantes-da-análise)
+12. [Iniciar as verificações](#iniciar-as-verificações)
+
 
 ## Introdução
 <a href="#introdução">Voltar ao topo</a>  
@@ -75,12 +79,45 @@ Identificar a empresa e o responsável pela execução da Análise a ser realiza
 
 <img src="https://user-images.githubusercontent.com/130560587/232489010-05579cc8-1e33-42ba-9726-c9cb57a0e8ce.jpg" height="350">
 
+## Identificar a localização
+<a href="#introdução">Voltar ao topo</a> 
+
+Buscar(via ícone em azul, estilo "mira") ou alocar manualmente a localização(via ícone estilo "lupa") da inspeção a ser realizada.
+
+<img src="https://user-images.githubusercontent.com/130560587/232493119-f77d96ab-af48-4eff-a753-55566be616bb.jpg" height="350">
+
+## Selecionar o Projeto ou Obra vinculado
+<a href="#introdução">Voltar ao topo</a> 
+
+Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232495215-3bce6399-9a18-4840-a85f-776005fc4f8c.jpg" height="350">
+
+<img src="https://user-images.githubusercontent.com/130560587/232495205-cbe03c42-0a16-4afb-bb71-7ff8ce04aed5.jpg" height="350">
+
+
+## Selecionar Participantes da Análise
+<a href="#introdução">Voltar ao topo</a>
+
+Selecionar os participantes da realização da Análise. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232496276-da40daea-c326-4c83-940e-50ddb2072fa4.jpg" height="350">
+
+
 ## Iniciar as verificações
 <a href="#introdução">Voltar ao topo</a> 
 
 Iniciar a análise e responder as perguntas de verificação. 
 
 <img src="https://user-images.githubusercontent.com/130560587/232489767-92949a2a-024f-4b43-86db-7d7fe7ae6d9a.jpg" height="350">
+
+Importante frisar que, caso alguma questão considerada crítica ou impeditiva seja encontrada(sinalizada pelo alerta com * e em cor de destaque), será preciso solucionar a pendência e/ou endereçá-la para conseguir finalizar a Análise. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232497146-39868bd6-351e-488b-aed9-463798100340.jpg" height="350">
+
+Caso o realizador da Análise, tenha identificado algo que não esteja no escopo da lista de verificação feita, poderá utilizar o campo "outros". Ao final, tem também a opção de inserção de fotos, caso seja necessário. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232498327-75bd2d90-4db2-4a46-aaec-9c3e7135799a.jpg" height="350">
 
 
 
