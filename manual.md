@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/130560587/232461171-60156f21-bced-461a-af18-5c2e4b35a778.png" style="heigth:20vh"> 
+<img src="https://user-images.githubusercontent.com/130560587/232461171-60156f21-bced-461a-af18-5c2e4b35a778.png" height="100">
 
 # CLICK SEGURANÇA - MODULO APR
 
