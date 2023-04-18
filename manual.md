@@ -97,11 +97,13 @@ Buscar(via ícone em azul, estilo "mira") ou alocar manualmente a localização(
 # Selecionar o Projeto/Obra ou Gerência vinculada
 [Voltar ao topo](#sumário) 
 
-Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada. 
+Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada(caso seja necessário). 
 
-<img src="https://user-images.githubusercontent.com/130560587/232495215-3bce6399-9a18-4840-a85f-776005fc4f8c.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232495215-3bce6399-9a18-4840-a85f-776005fc4f8c.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/232495205-cbe03c42-0a16-4afb-bb71-7ff8ce04aed5.jpg" height="350">
 
-<img src="https://user-images.githubusercontent.com/130560587/232495205-cbe03c42-0a16-4afb-bb71-7ff8ce04aed5.jpg" height="350">
+Selecionar a Gerência(se necessário).
+
+<img src="https://user-images.githubusercontent.com/130560587/232849648-428eb43a-9a5c-41aa-97d7-0a65f10c5980.jpg" height="350">
 
 
 # Selecionar Participantes da Análise
