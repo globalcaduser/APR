@@ -143,8 +143,7 @@ OBS: Sempre aparecerá o alerta sobre a necessidade de reverificar(caso seja nec
 
 É de suma importância, aguardar o envio ser concluído por completo, afim de garantir que a “Análise” foi finalizada e enviada efetivamente(juntamente com os arquivos em anexo) para a base de dados do Sistema.
 
-<img src="https://user-images.githubusercontent.com/130560587/232501196-920d53a2-9e33-495e-85a5-41df38dcaab2.jpg" height="350">
-<img src="https://user-images.githubusercontent.com/130560587/232501203-170af2de-5ca7-47b0-88c4-723979408594.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232501196-920d53a2-9e33-495e-85a5-41df38dcaab2.jpg" height="350"><img src="https://user-images.githubusercontent.com/130560587/232501203-170af2de-5ca7-47b0-88c4-723979408594.jpg" height="350">
 
 # Consulta aos arquivos de Análises enviadas
 [Voltar ao topo](#sumário)
