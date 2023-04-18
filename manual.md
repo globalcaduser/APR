@@ -94,7 +94,7 @@ Buscar(via ícone em azul, estilo "mira") ou alocar manualmente a localização(
 <img src="https://user-images.githubusercontent.com/130560587/232493119-f77d96ab-af48-4eff-a753-55566be616bb.jpg" height="350">
 
 
-# Selecionar o Projeto ou Obra vinculado
+# Selecionar o Projeto/Obra ou Gerência vinculada
 [Voltar ao topo](#sumário) 
 
 Realizar a seleção do Projeto ou Obra vinculado à Análise a ser realizada. 
